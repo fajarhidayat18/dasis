@@ -1,0 +1,7 @@
+{
+  "name": "dasis",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
